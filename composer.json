@@ -1,6 +1,5 @@
 {
     "require": {
-        "monolog/monolog": "3.0.0",
         "justinrainbow/json-schema": "5.2.10"
     }
 }
